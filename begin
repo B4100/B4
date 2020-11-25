@@ -1,0 +1,4 @@
+def begin(stuff):
+  print(stuff)
+  
+begin("Do something")  
